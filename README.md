@@ -1,1 +1,1 @@
-I like training deep neural networks :)
+I like training deep neural networks.
