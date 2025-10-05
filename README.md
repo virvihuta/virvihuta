@@ -1,1 +1,1 @@
-I like calculating and training neural networks from scratch.
+I like exploring research, fine-tuning and training deep neural networks.
