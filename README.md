@@ -1,1 +1,1 @@
-I like exploring research, fine-tuning LLMs and training deep neural networks.
+I like working with data, exploring research, fine-tuning LLMs and training deep neural networks.
